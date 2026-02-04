@@ -31,7 +31,7 @@ const memories = [
     subtitle: "Sans vraiment le savoir…",
     description:
       "Ce jour-là mon bb 😊, tu étais en train de détacher tes cheveux pour les tresser. Tu étais si belle 😍 que j’ai voulu prendre une photo. Timide, tu te cachais derrière moi… et sans le vouloir, on a pris une très belle photo.😉",
-
+    text: "À ce moment-là, je ne savais pas encore que j’étais amoureux.",
     love: "Avec le temps, j’ai compris que c’est ce jour-là que j’ai commencé à te regarder autrement.",
   },
   {
